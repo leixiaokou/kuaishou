@@ -45,3 +45,5 @@ die();
 ```
 ##### 抖音 快手 微视 API集成服务
 传送门 https://github.com/leixiaokou/short-video
+##### 更多有趣小项目请关注公众号《一只码》
+![](https://leijun-common.oss-cn-shenzhen.aliyuncs.com/one-coder.png)
